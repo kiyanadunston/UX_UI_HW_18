@@ -1,5 +1,19 @@
+.h1 {
+    float: left;
+}
+
+button {
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 130px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
 body {
     margin: 5%;
+    cursor: pointer;
 }
 
 .inline-block {
@@ -47,7 +61,7 @@ ul {
 .flexContainer{
     display: flex;
     flex-direction: row;
-    background-color: #B6AAA3;
+    background-color: #ABA7A4;
 }
 
 
@@ -67,11 +81,10 @@ ul {
     margin-right: auto;
 }
 
-
 .workGrid {
     display: grid;
     grid-area: myWork;
-    background-color: #B6AAA3;
+    background-color: #ABA7A4;
 }
 
 .grid-container {
@@ -96,5 +109,7 @@ ul {
     .flexContainer {
         flex-direction: column;
         width: 100%;
+        grid-template-columns: auto;
+    grid-template-areas: 'myWork';
     }
   }
