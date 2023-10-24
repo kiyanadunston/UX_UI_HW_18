@@ -3,33 +3,33 @@
     vertical-align: top;
     }
     
-    
-    .logo {
+
+.logo {
     width: 23%;
     padding: 1%;
     text-align: center;
     }
     
-    
-    nav {
+
+nav {
     width: 73%;
     padding: 1%;
     }
     
-    
-    ul {
+
+ul {
     width: 50%;
     margin-left: auto;
-    }
+}
     
     
-    .heroImg {
+.heroImg {
     height: 600px;
     padding: 25px;
-    }
+}
     
     
-    .content {
+.content {
     width: 500px;
     margin: 0 auto;
 }
@@ -39,3 +39,17 @@ footer {
 background-color: #373738;
 padding: 1%;
 }
+
+
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+
+div {
+    width: 33%;
+    margin: 1%;
+    padding: 70px;
+}
+
