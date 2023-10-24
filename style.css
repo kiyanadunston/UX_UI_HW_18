@@ -112,6 +112,6 @@ ul {
         flex-direction: column;
         width: 100%;
         grid-template-columns: auto;
-    grid-template-areas: 'myWork';
+        grid-template-areas: 'myWork';
     }
   }
