@@ -118,7 +118,7 @@ ul {
     grid-template-columns: auto auto;
     grid-template-areas: 'myWork myWork';
     grid-gap: 10px;
-    padding: 10px;
+    padding: 1px;
   }
 
 
