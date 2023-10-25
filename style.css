@@ -1,6 +1,5 @@
 h1 {
     float: left;
-    font-family: "Abril Fatface", serif;
 }
 
 button {
@@ -103,21 +102,6 @@ ul {
   }
 
 
-h3 {
-    font-family: "Abril Fatface", serif;
-}
-
-
-h4 {
-    font-family: "Abril Fatface", serif;
-}
-
-
-p {
-    font-family: "Inter", serif;
-}
-
-
   footer {
     background-color: #B6AAA3;
     width: 90%;
@@ -128,7 +112,7 @@ p {
     font-weight: bold;
     }     
 
-    
+
   @media only screen and (max-width: 600px) {
     .flexContainer {
         flex-direction: column;
