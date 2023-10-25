@@ -1,5 +1,6 @@
-.h1 {
+h1 {
     float: left;
+    font-family: "Abril Fatface", serif;
 }
 
 button {
@@ -74,6 +75,7 @@ ul {
     margin-right: auto;
 }
 
+
 .myWork div {
     width: 90%;
     margin: 0%;
@@ -83,11 +85,13 @@ ul {
     flex: 50%;
 }
 
+
 .workGrid {
     display: grid;
     grid-area: myWork;
     background-color: #ABA7A4;
 }
+
 
 .grid-container {
     display: grid;
@@ -97,6 +101,21 @@ ul {
     grid-gap: 10px;
     padding: 10px;
   }
+
+
+h3 {
+    font-family: "Abril Fatface", serif;
+}
+
+
+h4 {
+    font-family: "Abril Fatface", serif;
+}
+
+
+p {
+    font-family: "Inter", serif;
+}
 
 
   footer {
@@ -109,6 +128,7 @@ ul {
     font-weight: bold;
     }     
 
+    
   @media only screen and (max-width: 600px) {
     .flexContainer {
         flex-direction: column;
