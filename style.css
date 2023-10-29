@@ -66,6 +66,11 @@ ul {
     width: 50%;
     margin-left: auto;
 }
+
+button:hover {
+    background-color: orange;
+    color: white;
+  }
     
     
 .heroImg {
