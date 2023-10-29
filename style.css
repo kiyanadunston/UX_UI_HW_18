@@ -1,5 +1,4 @@
 h1 {
-    float: left;
     font-family: "Abril Fatface", serif;
 }
 
@@ -109,6 +108,7 @@ ul {
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
+    justify-content: center;
 }
 
 
@@ -145,7 +145,7 @@ ul {
     margin-left: auto;
     margin-right: auto;
     font-weight: bold;
-}     
+}
 
 
   @media only screen and (max-width: 600px) {
