@@ -21,7 +21,7 @@ body {
 
 
 h3 {
-    font-family: "Abril Fatface", serif;
+    font-family: "Open Sans", serif;
 }
     
     
@@ -31,7 +31,7 @@ h4 {
     
     
 p {
-    font-family: "Inter", serif;
+    font-family: "Open Sans", serif;
 }
     
 
@@ -82,6 +82,8 @@ ul {
     display: flex;
     flex-direction: row;
     background-color: #ABA7A4;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
@@ -123,7 +125,7 @@ ul {
     grid-template-areas: 'myWork myWork';
     width: 90%;
     margin: 0%;
-    padding: 1px;
+    padding: 1%;
     margin-left: auto;
     margin-right: auto;
 }
