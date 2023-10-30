@@ -63,7 +63,7 @@ p {
 nav {
     width: 90%;
     padding: 1%;
-    
+    margin-left: 19%;
     font-weight: bold;
 }
 
@@ -161,7 +161,6 @@ button:hover {
 
 
   footer {
-    background-color: #B6AAA3;
     width: 90%;
     margin: 0%;
     padding: 1%;
