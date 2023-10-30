@@ -3,6 +3,7 @@ h1 {
 }
 
 
+
 button {
     background-color: black;
     color: white;
@@ -46,7 +47,7 @@ p {
     font-family: "Comfortaa", serif;
 }
 
-.header {
+.subheader {
     font-family: "Comfortaa", serif;
     float: right;
 }
@@ -65,11 +66,25 @@ nav {
     
     font-weight: bold;
 }
-    
+
 
 ul {
     width: 50%;
     margin-left: auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+.navitem {
+    justify-content: space-between;
+    padding: 1%
+}
+
+.footeritem {
+    justify-content: space-between;
+    padding: 1%
 }
 
 button:hover {
