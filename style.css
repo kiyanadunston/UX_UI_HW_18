@@ -111,7 +111,6 @@ button:hover {
 .flexContainer{
     display: flex;
     flex-direction: row;
-    background-color: #ABA7A4;
     margin-left: auto;
     margin-right: auto;
 }
@@ -140,7 +139,6 @@ button:hover {
 .workGrid {
     display: grid;
     grid-area: myWork;
-    background-color: #ABA7A4;
     width: 90%;
     margin: 0%;
     padding: 1%;
