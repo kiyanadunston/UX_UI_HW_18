@@ -1,5 +1,5 @@
 h1 {
-    font-family: "Abril Fatface", serif;
+    font-family: "Comfortaa", serif;
 }
 
 
@@ -10,7 +10,7 @@ button {
     width: 130px;
     border-radius: 15px;
     cursor: pointer;
-    font-family: "Abril Fatface", serif;
+    font-family: "Comfortaa", serif;
 }
 
 
@@ -21,30 +21,35 @@ body {
 
 
 h3 {
-    font-family: "Open Sans", serif;
+    font-family: "Quicksand", serif;
 }
     
     
 h4 {
-    font-family: "Abril Fatface", serif;
+    font-family: "Comfortaa", serif;
 }
     
     
 p {
-    font-family: "Open Sans", serif;
-    font-size: 16px;
+    font-family: "Quicksand", serif;
+    font-size: 14px;
 }
 
 .projects {
-    font-family: "Abril Fatface", serif;
+    font-family: "Comfortaa", serif;
 }
     
 
 .inline-block {
     display: inline-block;
     vertical-align: top;
+    font-family: "Comfortaa", serif;
 }
-    
+
+.header {
+    font-family: "Comfortaa", serif;
+    float: right;
+}
 
 .logo {
     width: 23%;
@@ -150,6 +155,7 @@ button:hover {
     margin-left: auto;
     margin-right: auto;
     font-weight: bold;
+    font-family: "Comfortaa", "serif";
 }
 
 
